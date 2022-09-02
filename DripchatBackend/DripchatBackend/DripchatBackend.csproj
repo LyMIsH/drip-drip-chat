@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="User\Authentication\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\DripchatCommon\DripchatCommon.csproj" />
   </ItemGroup>
 
